@@ -1,0 +1,37 @@
+header{
+	background-color: #FCCE09;
+	padding: 5%;
+}
+
+header .btn-sumate {
+	text-align: left;
+	padding-left: 200px;
+}
+
+header .btn-sumate a{
+	background-color: #FCBA43;
+	padding: 3% 8%;
+}
+header nav a{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+header .sumate a{
+	text-align: left;
+}
+section {
+	background-color: #F0F0F0;
+}
+
+section .ejemplos img{
+	width: 300px;
+	height: 300px;
+	padding-top: 2%;
+}
+.texto-ejemplo{
+	background-color: white;
+}
+.img-holder{
+	padding: 5% 15%;
+
+}
